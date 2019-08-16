@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Locale;
 import java.util.Scanner;
 import java.time.LocalDate;
@@ -21,6 +22,7 @@ public static void main(String[]args) {
     System.out.println("India: "  + india);
     System.out.println("China: "  + china);
     System.out.println("France: " + france);
+    System.out.println("checking push");
 
         }
 }
